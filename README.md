@@ -1,4 +1,4 @@
-# Spark vs PC en Nube
+# <p align='center'><ins>Spark vs PC en Nube</ins></p>
 
 <p align="center">
   <img src="imagenes/05.jpeg" style="width: 30%; height: 200px; object-fit: cover;"/>
